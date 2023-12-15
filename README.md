@@ -14,8 +14,6 @@ The integration with the STRING API allows us to instantly run the program for a
 
 ## Results:
 
-Evaluation metrics on a randomly generated feature vector of 600D:
-
 Evaluation metrics on the protein BRCA1:
 
 Train, dev, test set composition:
