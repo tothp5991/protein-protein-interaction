@@ -19,12 +19,17 @@ Evaluation metrics on a randomly generated feature vector of 600D:
 Evaluation metrics on the protein BRCA1:
 
 Train, dev, test set composition:
+
 ![image](https://github.com/tothp5991/protein-protein-interaction/assets/61978722/88b87924-c6a4-42c9-9af4-f1db435d67db)
 
+
 ROC curve
+
 ![image](https://github.com/tothp5991/protein-protein-interaction/assets/61978722/4457453a-4162-4526-9ae9-890022abdaa8)
 
-Precision
+
+Accuracy
+
 ![image](https://github.com/tothp5991/protein-protein-interaction/assets/61978722/212ea7b2-4bba-41ec-a542-0b161d8be43c)
 
 ## Conclusion
