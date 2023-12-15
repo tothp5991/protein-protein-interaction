@@ -21,6 +21,12 @@ Evaluation metrics on the protein BRCA1:
 Train, dev, test set composition:
 ![image](https://github.com/tothp5991/protein-protein-interaction/assets/61978722/88b87924-c6a4-42c9-9af4-f1db435d67db)
 
+ROC curve
+![image](https://github.com/tothp5991/protein-protein-interaction/assets/61978722/4457453a-4162-4526-9ae9-890022abdaa8)
+
+Precision
+![image](https://github.com/tothp5991/protein-protein-interaction/assets/61978722/212ea7b2-4bba-41ec-a542-0b161d8be43c)
+
 ## Conclusion
 
 Considering that protein-protein interactions are fundamentally physical, I lean toward structural features being more predictive in this scenario. The quantity of established interaction partners, the random selection of non-interacting proteins, and the diversity in their GO term counts significantly shape the outcomes highlighted in this brief overview. Nevertheless, the findings imply a potential link between the Gene Ontology Annotation, representing their functional traits, and the likelihood of interaction among certain proteins.
